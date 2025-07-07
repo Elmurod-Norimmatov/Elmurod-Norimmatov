@@ -10,7 +10,7 @@
 
 ### 🤝 Connect with me:
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/@elmurod_1811)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/elmurod_1811)
 [<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/el.murod_1118/)
 
 ### 💻 Tech Stack:
