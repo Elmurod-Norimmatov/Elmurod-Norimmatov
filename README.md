@@ -1,4 +1,4 @@
-<img src="https://www.google.com/imgres?q=python%20image&imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F985%2F314%2Fpng-clipart-learning-python-programming-language-computer-programming-python-logo-text-computer.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fru%2Fpng-hobke&docid=u_C7-1qY4j-5rM&tbnid=NWxvYWbXqKSVfM&vet=12ahUKEwjY6M74hKqOAxUeFRAIHdT-Jmo4ChAzegQIRxAA..i&w=900&h=512&hcb=2&ved=2ahUKEwjY6M74hKqOAxUeFRAIHdT-Jmo4ChAzegQIRxAA">
+<img url="https://www.google.com/imgres?q=python%20image&imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F985%2F314%2Fpng-clipart-learning-python-programming-language-computer-programming-python-logo-text-computer.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fru%2Fpng-hobke&docid=u_C7-1qY4j-5rM&tbnid=NWxvYWbXqKSVfM&vet=12ahUKEwjY6M74hKqOAxUeFRAIHdT-Jmo4ChAzegQIRxAA..i&w=900&h=512&hcb=2&ved=2ahUKEwjY6M74hKqOAxUeFRAIHdT-Jmo4ChAzegQIRxAA">
 
 ### Hi all, I'm Elmurod-Norimmatov
 
