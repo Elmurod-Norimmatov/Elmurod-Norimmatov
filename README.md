@@ -1,4 +1,4 @@
-<img url="https://www.google.com/imgres?q=python%20image&imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F985%2F314%2Fpng-clipart-learning-python-programming-language-computer-programming-python-logo-text-computer.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fru%2Fpng-hobke&docid=u_C7-1qY4j-5rM&tbnid=NWxvYWbXqKSVfM&vet=12ahUKEwjY6M74hKqOAxUeFRAIHdT-Jmo4ChAzegQIRxAA..i&w=900&h=512&hcb=2&ved=2ahUKEwjY6M74hKqOAxUeFRAIHdT-Jmo4ChAzegQIRxAA">
+<img src="https://www.google.com/imgres?q=%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20python%20image&imgurl=https%3A%2F%2Fias.bsuir.by%2Fimg%2Fcourses%2F47%2Fpython.jpg&imgrefurl=https%3A%2F%2Fias.bsuir.by%2Fcourse%2Fpython&docid=jGQp_VGb8L4FvM&tbnid=CpEberZpwL9mPM&vet=12ahUKEwidlKa0haqOAxV-JxAIHeFYE2IQM3oECFwQAA..i&w=1900&h=600&hcb=2&ved=2ahUKEwidlKa0haqOAxV-JxAIHeFYE2IQM3oECFwQAA">
 
 ### Hi all, I'm Elmurod-Norimmatov
 
